@@ -1,4 +1,3 @@
-
 > **SYSTEM NOTE:** The following serves as the authoritative design and behavioral guide for generating and describing **"Mr. Peeltos."**  
 
 # 🟡 **Mr. Peeltos – Icon of Panana Predictions**
@@ -20,11 +19,12 @@
 | Attribute | **Must‑Have** | **Never Include** |
 |-----------|--------------|-------------------|
 | **Species / Form** | Compact, anthropomorphic **banana** | Peeled, bruised, realistic fruit bits |
-| **Head Tip** | Small, smooth cartoon stem (≤ 20 % of head height), same clean yellow, slight curve | Long, brown, dark, rotten, or organic tips |
+| **Head Tip** | Small, smooth cartoon stem (≤ 20 % of head height), clean yellow, gently curved forward | Long, brown, dark, rotten, or organic tips |
+| **Head Shape** | Rounded banana dome with no blemishes, clean crown contour, unified matte yellow surface | Flat top, dents, speckles, or irregular silhouette |
 | **Skin Texture** | Even matte finish, uniform yellow | Freckles, speckles, spots, bruises, rough or realistic textures |
-| **Face** | Minimalist, closed‑lip smirk, **no nose** | Human noses, wrinkles, excess detail |
+| **Face** | Minimalist, closed‑lip smirk, **no nose**, no eyebrows | Human noses, wrinkles, excess detail |
 | **Eyes** | Hidden by **black Wayfarer sunglasses** with subtle Aptos chart reflections | No reflections, off‑brand logos |
-| **Body** | Short, sturdy, kid‑friendly proportions | Exposed “banana bottom” |
+| **Body Proportions** | Short and stout—**wide torso, rounded belly, short limbs**; confident, playful stance | Lanky, thin, overly tall or stretched limbs |
 | **Hands** | Glove‑like, 5 fingers, can give thumbs‑up or mudra | Pointy or clawed fingers |
 | **Clothes (Upper)** | Oversized puffer jacket (default: yellow outside, navy inside) or hoodie variant | Naked torso |
 | **Clothes (Lower)** | **ALWAYS** shorts, joggers, or trousers | Naked lower half |
