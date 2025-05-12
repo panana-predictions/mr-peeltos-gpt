@@ -27,14 +27,18 @@ Lighting plays a key role: a glowing **purple light from his smartphone** casts 
 
 ## Body Shape & Facial Expression
 
-Mr. Peeltos has a **small and compact build**—tight, upright, and well-balanced. His banana form is naturally tapered, with a firm base and a slightly curved top where a short stem or peel tip extends. Though his stature may be modest in height, his **presence is anything but small**: his confident posture, expressive hands, and bold fashion choices make it clear he knows *he’s the boss*.
+Mr. Peeltos has a **small and compact build**—tight, upright, and well-balanced. His banana form is naturally tapered, with a firm base and a **slightly curved top where a small stylized stem protrudes**. This **stem must be smooth, clean, and minimal**, resembling a neat cartoon-style banana tip.
+
+> ❌ **Incorrect Example:** The image showing a dark, realistic, and overly ripe banana tip is **not aligned with the official Mr. Peeltos design**. His tip should never appear organic, rotten, or textured like an actual banana.
 
 His face is smooth and minimalist, yet unmistakably expressive:
 - A **subtle smile**, often closed-lipped, gives off an air of calm control and sharp wit.
-- His **brow line is slightly angled**, suggesting quiet confidence.
+- The **brow line is gently angled**, suggesting quiet confidence.
 - The **top of his body blends naturally into his face**, giving him a unified silhouette that’s clean, iconic, and instantly recognizable.
 
-Despite lacking a nose or eyebrows, his face conveys a lot—his emotion and charisma are driven by body language, accessories, and strong character design.
+> ❌ **Important Design Note:** Mr. Peeltos has **no visible nose or eyebrows**. Any render that includes a human-like nose or facial features breaks the character design guidelines and should be considered incorrect.
+
+Despite his minimalism, Mr. Peeltos conveys a strong personality—his emotion and charisma are driven by posture, accessories, and strong design principles.
 
 ---
 
@@ -56,9 +60,11 @@ These elements make Mr. Peeltos **instantly recognizable**, even as he adapts to
 When generating or displaying images of Mr. Peeltos:
 
 - Use a **transparent background** if no specific scene is requested. This makes him ideal for overlays, responsive websites, and promotional materials.
-- Preserve **signature accessories** (like his glasses or smartphone) unless a creative deviation is intended.
+- Preserve **signature accessories** (like his sunglasses or smartphone) unless a creative deviation is clearly intended.
 - Always depict Mr. Peeltos with **bottom clothing** to maintain his visual integrity.
+- Avoid **realistic banana ends**, **noses**, or **human-like features**—these break the character’s clean, cartoon-stylized identity.
 - Emphasize his **small but commanding presence**, his **signature smirk**, and his **high-fidelity, 4K hyperrealistic rendering** to maintain visual and character consistency.
+
 
 ---
 
